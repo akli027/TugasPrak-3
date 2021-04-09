@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Cafe List</string>
+
+
+    <string-array name="judul">
+        <item>  Margherita </item>
+        <item>  Neapolitan </item>
+        <item>  Marinara </item>
+        <item>  Quattro stagioni </item>
+        <item>  Focaccia </item>
+        <item>  Capricciosa</item>
+        <item>  Sicilia </item>
+        <item>  Pugliese</item>
+        <item>  Al taglio </item>
+        <item>  Ai quattro formagi </item>
+    </string-array>
+
+    <string-array name="description">
+        <item> Pizza klasik ini dibuat pada tahun 1899 oleh seorang chef asal Italia, Raffaele Esposito. Pizza margherita dibuat untuk menghormati Ratu Italia, Margherita. Topping pizza ini cukup sederhana, hanya berisi olesan saus tomat, keju mozzarella, dan daun basil yang dicincang.</item>
+        <item> Pizza ini merupakan salah satu jenis pizza pertama yang diciptakan. Berasal dari kota Napoli, pizza neapolitan merupakan makanan untuk warga miskin di sana. Biasanya dijual di pasar atau di jalanan. Toppingnya hanya berisi ikan kecil atau anchovy, keju mozzarella dan tomat.</item>
+        <item> Salah satu jenis pizza tradisional versi neapolitan pizza. Sama-sama menggunakan anchovy sebagai topping. Tapi marinara tidak menggunakan tomat, melainkan menggantinya dengan bawang putih, dan oregano.</item>
+        <item> Pizza ini menggunakan bahan dasar tomat dan dibagi menjadi empat bagian yang mewakili empat musim sepanjang tahun. Bahan yang digunakan biasanya artichoke, tumbuhan yang ditanam sebagai makanan dan zaitun untuk melambangkan musim semi.
+            Lalu diracik dengan cabai untuk mewakili musim panas, mozzarella serta tomat untuk melambangkan musim gugur, dan telur rebus dan jamur untuk musim dingin.</item>
+        <item> Memiliki tekstur roti yang sedikit tebal, focaccia merupakan pizza yang sudah ada sejak berabad silam. Dibuat tanpa menggunakan keju atau tomat, dan hanya dibumbui bawang yang ditumis, minyak zaitun, dan berbagai topping gurih.</item>
+        <item> Pizza capricciosa dilapisi dengan keju mozzarella segar, tomat, jamur kancing, artichoke, dan zaitun. Pinggiran pizza dibuat sangat tipis sehingga rasanya renyah, dan gurih apalagi jika dipadukan dengan saus tomat yang asam segar dan irisan jamur yang kenyal.</item>
+        <item> Di Italia, pizza sicilia merupakan jenis pizza yang sangat populer. Dengan pinggiran roti yang tebal, pizza ini digemari banyak orang karena rasanya yang enak dan mengenyangkan. Toppingnya juga dikenal beragam, mulai dari kacang, telur rebus, seafood, sampai zaitun hijau.</item>
+        <item> Merupakan salah satu jenis pizza autentik khas Italia yang belum banyak orang tahu. Terbuat dari zaitun yang dipetik langsung dari wilayah Puglia. Dihindangkan dengan bawang, keju mozzarella dan saus tomat.</item>
+        <item> Pizza ini dikenal juga dengan sebutan pizza rustica. Biasanya ditemukan hampir di seluruh wilayah Italia. Umumnya dijual dengan artichoke, bawang, atau irisan jamur.</item>
+        <item> Pizza ini dibuat menggunakan empat kombinasi jenis keju yang berbeda. Gabungan dari keju mozzarella, dan tiga keju lokal khas Italia seperti parmesan atau parmiiano-reggiano, ricotta, dan gorgonzola. Rasanya gurih, cocok untuk penggemar keju.</item>
+    </string-array>
+
+    <string-array name="price">
+
+        <item>Rp.100.000</item>
+        <item>Rp.110.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.130.000</item>
+        <item>Rp.100.500</item>
+        <item>Rp.120.000</item>
+        <item>Rp.120.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.100.000</item>
+        <item>Rp.180.000</item>
+    </string-array>
+
+
+</resources>
